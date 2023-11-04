@@ -1,0 +1,52 @@
+[
+  {
+    "name": "idle",
+    "row": 0,
+    "numFrames": 7
+  },
+  {
+    "name": "jump1",
+    "row": 1,
+    "numFrames": 7
+  },
+  {
+    "name": "jump2",
+    "row": 2,
+    "numFrames": 7
+  },
+  {
+    "name": "run1",
+    "row": 3,
+    "numFrames": 9
+  },
+  {
+    "name": "dizzy",
+    "row": 4,
+    "numFrames": 11
+  },
+  {
+    "name": "sit",
+    "row": 5,
+    "numFrames": 5
+  },
+  {
+    "name": "roll",
+    "row": 6,
+    "numFrames": 7
+  },
+  {
+    "name": "run2",
+    "row": 7,
+    "numFrames": 7
+  },
+  {
+    "name": "sleep",
+    "row": 8,
+    "numFrames": 12
+  },
+  {
+    "name": "there is no meaning in life",
+    "row": 9,
+    "numFrames": 4
+  }
+]
